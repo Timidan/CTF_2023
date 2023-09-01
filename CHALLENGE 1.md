@@ -1,3 +1,4 @@
+
 ## DOOR
 
 - **magicno** - `Why did the computer believe in magic numbers?,Because they always seemed to cast a "spell" on its calculations!`, tbh, its just a random number
